@@ -1,3 +1,9 @@
+# 支持的情况
+1. docker 容器
+2. mihomo 容器（tun模式）
+3. redroid容器
+4. ……等等的一堆容器
+
 Linux kernel
 ============
 
